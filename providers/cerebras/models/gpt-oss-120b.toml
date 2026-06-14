@@ -1,7 +1,7 @@
 name = "GPT OSS 120B"
 family = "gpt-oss"
 release_date = "2025-08-05"
-last_updated = "2026-06-10"
+last_updated = "2026-06-14"
 attachment = false
 reasoning = true
 reasoning_options = [{ type = "effort", values = ["low", "medium", "high"] }]
@@ -11,6 +11,7 @@ open_weights = true
 structured_output = true
 
 [cost]
+cache_read = 0.35
 input = 0.35
 output = 0.75
 

@@ -1,6 +1,6 @@
 name = "Z.AI GLM-4.7"
 release_date = "2026-01-07"
-last_updated = "2026-06-10"
+last_updated = "2026-06-14"
 attachment = false
 reasoning = true
 reasoning_options = [{ type = "effort", values = ["none"] }]
@@ -13,7 +13,7 @@ status = "beta"
 [cost]
 input = 2.25
 output = 2.75
-cache_read = 0
+cache_read = 2.25
 cache_write = 0
 
 [limit]
