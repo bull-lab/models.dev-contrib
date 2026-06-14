@@ -5,9 +5,9 @@ name = "Qwen3.6 27B TEE"
 reasoning_options = [{ type = "toggle" }]
 
 [cost]
-input = 0.195
-output = 1.56
-cache_read = 0.0975
+input = 0.3
+output = 2
+cache_read = 0.15
 
 [modalities]
 input = ["text", "image"]

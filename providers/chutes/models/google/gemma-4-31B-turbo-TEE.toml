@@ -5,9 +5,9 @@ name = "gemma 4 31B turbo TEE"
 reasoning_options = [{ type = "toggle" }]
 
 [cost]
-input = 0.13
-output = 0.38
-cache_read = 0.065
+input = 0.15
+output = 0.42
+cache_read = 0.075
 
 [limit]
 context = 131_072

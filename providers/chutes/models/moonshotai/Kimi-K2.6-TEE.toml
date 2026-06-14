@@ -9,9 +9,9 @@ knowledge = "2025-12"
 field = "reasoning_content"
 
 [cost]
-input = 0.95
-output = 4
-cache_read = 0.475
+input = 0.74
+output = 3.5
+cache_read = 0.37
 
 [limit]
 output = 65_535

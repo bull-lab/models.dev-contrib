@@ -6,9 +6,9 @@ reasoning_options = [{ type = "toggle" }]
 structured_output = true
 
 [cost]
-input = 0.08
-output = 0.24
-cache_read = 0.04
+input = 0.104
+output = 0.416
+cache_read = 0.052
 
 [limit]
 context = 40_960
