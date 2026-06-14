@@ -1,7 +1,7 @@
 name = "Kimi K2 Thinking"
 family = "kimi-thinking"
 release_date = "2025-11-07"
-last_updated = "2025-11-07"
+last_updated = "2026-06-14"
 attachment = false
 reasoning = true
 reasoning_options = []
@@ -11,6 +11,7 @@ structured_output = true
 open_weights = true
 
 [cost]
+cache_read = 0.15
 input = 0.6
 output = 2.5
 
