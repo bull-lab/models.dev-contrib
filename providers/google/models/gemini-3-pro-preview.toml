@@ -1,7 +1,7 @@
 name = "Gemini 3 Pro Preview"
 family = "gemini-pro"
 release_date = "2025-11-18"
-last_updated = "2025-11-18"
+last_updated = "2026-06-28"
 attachment = true
 reasoning = true
 temperature = true
@@ -19,6 +19,8 @@ values = ["low", "high"]
 input = 2
 output = 12
 cache_read = 0.2
+cache_write = 0.375
+reasoning = 12
 
 [[cost.tiers]]
 tier = { size = 200_000 }

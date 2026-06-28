@@ -1,7 +1,7 @@
 name = "Gemini 2.5 Flash-Lite"
 family = "gemini-flash-lite"
 release_date = "2025-06-17"
-last_updated = "2025-06-17"
+last_updated = "2026-06-28"
 attachment = true
 reasoning = true
 temperature = true
@@ -22,7 +22,8 @@ max = 24_576
 input = 0.1
 output = 0.4
 cache_read = 0.01
-input_audio = 0.3
+cache_write = 0.083333
+reasoning = 0.4
 
 [limit]
 context = 1_048_576

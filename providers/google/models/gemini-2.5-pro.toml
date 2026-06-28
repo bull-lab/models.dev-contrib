@@ -7,8 +7,10 @@ max = 32_768
 
 [cost]
 input = 1.25
-output = 10.00
+output = 10
 cache_read = 0.125
+cache_write = 0.375
+reasoning = 10
 
 [[cost.tiers]]
 tier = { size = 200_000 }

@@ -1,7 +1,7 @@
 name = "Nano Banana"
 family = "gemini-flash"
 release_date = "2025-08-26"
-last_updated = "2025-08-26"
+last_updated = "2026-06-28"
 attachment = true
 reasoning = true
 temperature = true
@@ -13,7 +13,9 @@ reasoning_options = []
 [cost]
 input = 0.3
 output = 30
-cache_read = 0.075
+cache_read = 0.03
+cache_write = 0.083333
+reasoning = 2.5
 
 [limit]
 context = 32_768
