@@ -1,7 +1,7 @@
 name = "Llama 4 Maverick 17B 128E Instruct FP8"
 family = "llama"
 release_date = "2025-01-31"
-last_updated = "2025-01-31"
+last_updated = "2026-06-28"
 attachment = false
 reasoning = true
 reasoning_options = []
@@ -11,8 +11,8 @@ tool_call = true
 open_weights = true
 
 [cost]
-input = 0.00
-output = 0.00
+input = 0.25
+output = 1
 
 [limit]
 context = 128_000

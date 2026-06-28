@@ -1,7 +1,7 @@
 name = "GPT-4.1"
 family = "gpt"
 release_date = "2025-04-14"
-last_updated = "2025-04-14"
+last_updated = "2026-06-28"
 attachment = true
 reasoning = false
 temperature = true
@@ -10,8 +10,9 @@ tool_call = true
 open_weights = false
 
 [cost]
-input = 0.00
-output = 0.00
+input = 2
+output = 8
+cache_read = 0.5
 
 [limit]
 context = 128_000
