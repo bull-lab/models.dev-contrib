@@ -1,7 +1,7 @@
 name = "Ring-2.6-1T"
 family = "ring"
 release_date = "2026-05-08"
-last_updated = "2026-05-27"
+last_updated = "2026-06-28"
 attachment = false
 reasoning = true
 reasoning_options = []
@@ -11,9 +11,9 @@ structured_output = true
 open_weights = false
 
 [cost]
-input = 0.3
-output = 2.5
-cache_read = 0.06
+input = 0.075
+output = 0.625
+cache_read = 0.015
 
 [limit]
 context = 262_144
