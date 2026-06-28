@@ -7,7 +7,7 @@ name = "Z.AI GLM-4.7"
 # https://inference-docs.cerebras.ai/capabilities/reasoning#glm-reasoning-effort-and-disable-reasoning
 # https://inference-docs.cerebras.ai/models/zai-glm-47
 release_date = "2026-01-07"
-last_updated = "2026-06-10"
+last_updated = "2026-06-28"
 attachment = false
 reasoning = true
 reasoning_options = [{ type = "effort", values = ["none"] }]
@@ -20,8 +20,7 @@ status = "beta"
 [cost]
 input = 2.25
 output = 2.75
-cache_read = 0
-cache_write = 0
+cache_read = 2.25
 
 [limit]
 context = 131_072
