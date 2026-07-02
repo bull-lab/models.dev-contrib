@@ -2,7 +2,7 @@ name = "Gemini 3 Flash Preview"
 description = "New Gemini flash lane bringing frontier-style multimodal reasoning to cheaper runs"
 family = "gemini-flash"
 release_date = "2025-12-17"
-last_updated = "2025-12-17"
+last_updated = "2026-07-02"
 attachment = true
 reasoning = true
 temperature = true
@@ -16,11 +16,12 @@ type = "effort"
 values = ["minimal", "low", "medium", "high"]
 
 [cost]
-input = 0.50
-output = 3.00
+input = 0.5
+output = 3
+reasoning = 3
 cache_read = 0.05
-input_audio = 1.00
-
+cache_write = 0.083333
+input_audio = 1
 [limit]
 context = 1048576
 output = 65536
