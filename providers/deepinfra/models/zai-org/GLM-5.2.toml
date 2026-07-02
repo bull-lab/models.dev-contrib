@@ -11,10 +11,9 @@ reasoning_options = [{ type = "toggle" }, { type = "effort", values = ["low", "m
 field = "reasoning_content"
 
 [cost]
-input = 0.95
-output = 3.00
+input = 0.93
+output = 3
 cache_read = 0.18
-
 [limit]
 context = 1_048_576
 # https://deepinfra.com/docs/advanced/max_tokens_limit

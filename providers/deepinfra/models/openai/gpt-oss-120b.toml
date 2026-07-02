@@ -9,7 +9,7 @@ name = "GPT OSS 120B"
 description = "Open-weight GPT model for self-hosted reasoning and instruction-following workloads"
 family = "gpt-oss"
 release_date = "2025-08-05"
-last_updated = "2025-08-05"
+last_updated = "2026-07-02"
 attachment = false
 reasoning = true
 reasoning_options = [{ type = "effort", values = ["low", "medium", "high"] }]
@@ -19,8 +19,7 @@ open_weights = true
 
 [cost]
 input = 0.039
-output = 0.19
-
+output = 0.17
 [limit]
 context = 131_072
 # https://deepinfra.com/docs/advanced/max_tokens_limit
