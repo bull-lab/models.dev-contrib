@@ -1,14 +1,15 @@
 name = "GLM-5.2"
 base_model = "zhipuai/glm-5.2"
+last_updated = "2026-07-03"
 
 [[reasoning_options]]
 type = "effort"
 values = ["none", "high", "max"]
 
 [cost]
-input = 1.4
-output = 4.4
-cache_read = 0.26
+input = 1.325
+output = 4.165
+cache_read = 0.246
 
 [limit]
 context = 1_048_576
