@@ -12,4 +12,6 @@ max = 24_576
 input = 0.30
 output = 2.50
 cache_read = 0.03
+cache_write = 0.083333
+reasoning = 2.50
 input_audio = 1.00

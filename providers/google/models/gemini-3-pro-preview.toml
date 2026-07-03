@@ -17,9 +17,12 @@ type = "effort"
 values = ["low", "high"]
 
 [cost]
-input = 2
-output = 12
-cache_read = 0.2
+input = 2.00
+output = 12.00
+cache_read = 0.20
+cache_write = 0.375
+reasoning = 12.00
+input_audio = 2.00
 
 [[cost.tiers]]
 tier = { size = 200_000 }

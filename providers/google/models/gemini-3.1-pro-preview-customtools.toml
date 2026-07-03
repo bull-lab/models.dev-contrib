@@ -19,6 +19,9 @@ values = ["low", "medium", "high"]
 input = 2.00
 output = 12.00
 cache_read = 0.20
+cache_write = 0.375
+reasoning = 12.00
+input_audio = 2.00
 
 [[cost.tiers]]
 tier = { size = 200_000 }

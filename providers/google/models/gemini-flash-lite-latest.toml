@@ -22,7 +22,10 @@ max = 24_576
 [cost]
 input = 0.10
 output = 0.40
-cache_read = 0.025
+cache_read = 0.01
+cache_write = 0.083333
+reasoning = 0.40
+input_audio = 0.30
 
 [limit]
 context = 1_048_576
