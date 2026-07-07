@@ -2,7 +2,7 @@ name = "Qwen3 Max"
 description = "Flagship Qwen model for complex reasoning, coding, and agentic workflows"
 family = "qwen"
 release_date = "2025-09-24"
-last_updated = "2025-09-24"
+last_updated = "2026-07-07"
 attachment = false
 reasoning = false
 temperature = true
@@ -12,8 +12,8 @@ structured_output = true
 open_weights = false
 
 [cost]
-input = 2.11
-output = 8.45
+input = 21.10
+output = 84.49999999
 
 [limit]
 context = 262_144
