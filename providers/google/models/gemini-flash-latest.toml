@@ -2,7 +2,7 @@ name = "Gemini Flash Latest"
 description = "Fast Gemini model balancing multimodal reasoning, tool use, and cost"
 family = "gemini-flash"
 release_date = "2025-09-25"
-last_updated = "2025-09-25"
+last_updated = "2026-07-07"
 attachment = true
 reasoning = true
 temperature = true
@@ -20,9 +20,10 @@ min = 0
 max = 24_576
 
 [cost]
+cache_write = 0.08333333
 input = 0.30
 output = 2.50
-cache_read = 0.075
+cache_read = 0.03
 input_audio = 1.00
 
 [limit]
