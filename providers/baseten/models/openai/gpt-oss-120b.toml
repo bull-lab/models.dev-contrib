@@ -21,6 +21,7 @@ values = ["low", "medium", "high"]
 [cost]
 input = 0.1
 output = 0.5
+cache_read = 0.1
 
 [limit]
 context = 128_072
