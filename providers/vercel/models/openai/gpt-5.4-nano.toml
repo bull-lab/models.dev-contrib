@@ -5,8 +5,8 @@ family = "gpt"
 temperature = true
 
 [cost]
-input = 0.2
-output = 1.25
+input = 0.1
+output = 0.625
 cache_read = 0.02
 
 [modalities]

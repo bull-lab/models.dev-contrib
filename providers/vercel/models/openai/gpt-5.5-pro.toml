@@ -6,8 +6,9 @@ release_date = "2026-04-24"
 temperature = true
 
 [cost]
-input = 30
-output = 180
+input = 15
+output = 90
+cache_read = 3
 
 [limit]
 context = 1_000_000
