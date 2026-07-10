@@ -2,5 +2,6 @@ base_model = "deepseek/deepseek-v4-pro"
 reasoning_options = [{ type = "toggle" }]
 
 [cost]
-input = 1.74
-output = 3.48
+input = 0.435
+output = 0.87
+cache_read = 0.0036
