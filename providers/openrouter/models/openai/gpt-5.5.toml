@@ -5,6 +5,6 @@ type = "effort"
 values = ["none", "low", "medium", "high", "xhigh"]
 
 [cost]
-input = 5
-output = 30
-cache_read = 0.5
+input = 12.5
+output = 75
+cache_read = 1.25
