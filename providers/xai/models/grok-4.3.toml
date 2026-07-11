@@ -15,15 +15,15 @@ type = "effort"
 values = ["none", "low", "medium", "high"]
 
 [cost]
-input = 1.25
-output = 2.5
-cache_read = 0.2
+input = 2.50
+output = 5.0
+cache_read = 0.4
 
 [[cost.tiers]]
 tier = { size = 200_000 }
-input = 2.5
-output = 5
-cache_read = 0.4
+input = 5.00
+output = 10.0
+cache_read = 0.8
 
 [limit]
 context = 1_000_000
