@@ -10,7 +10,7 @@ values = ["none", "low", "medium", "high"]
 
 [cost]
 input = 0.1300
-output = 0.4
+output = 0.40
 
 [limit]
 context = 256_000
