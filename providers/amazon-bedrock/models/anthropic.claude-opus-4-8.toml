@@ -5,4 +5,4 @@ reasoning_options = [{ type = "effort", values = ["low", "medium", "high", "xhig
 input = 5.5
 output = 27.5
 cache_read = 0.6
-cache_write = 6.88
+cache_write = 6.875
