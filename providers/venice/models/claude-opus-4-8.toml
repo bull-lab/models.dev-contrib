@@ -9,7 +9,7 @@ reasoning_options = []
 input = 6
 output = 30
 cache_read = 0.6
-cache_write = 7.5
+cache_write = 0.0
 
 [modalities]
 input = ["text", "image"]
