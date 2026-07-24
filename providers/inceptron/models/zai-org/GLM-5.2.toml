@@ -6,9 +6,9 @@ name = "GLM 5.2"
 field = "reasoning_content"
 
 [cost]
-input = 1.2
-output = 4.2
-cache_read = 0.26
+input = 0.94
+output = 2.9000000000000004
+cache_read = 0.16999999999999998
 cache_write = 0
 
 [modalities]
