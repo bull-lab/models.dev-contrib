@@ -2,7 +2,7 @@ base_model = "tencent/hy3-preview"
 reasoning_options = [{ type = "effort", values = ["none", "low", "high"] }]
 
 [cost]
-input = 0.172
-output = 0.572
-cache_read = 0.058
+input = 0.13820389
+output = 0.45960829000000003
+cache_read = 0.04660363
 cache_write = 0

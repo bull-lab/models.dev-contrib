@@ -2,7 +2,7 @@ base_model = "alibaba/qwen3.7-max"
 reasoning_options = [{ type = "toggle" }]
 
 [cost]
-input = 2.50
-output = 7.50
-cache_read = 0.50
-cache_write = 3.125
+input = 0.4307775
+output = 1.2923325
+cache_read = 0.04307775
+cache_write = 0.5384718700000001

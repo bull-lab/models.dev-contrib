@@ -2,6 +2,6 @@ base_model="moonshotai/kimi-k2.7-code"
 reasoning_options = []
 
 [cost]
-input = 0.95
-output = 4
-cache_read = 0.16
+input = 0.4257729
+output = 1.7927279999999999
+cache_read = 0.08515458
