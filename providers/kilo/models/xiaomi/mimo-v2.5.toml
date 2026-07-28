@@ -6,9 +6,9 @@ name = "Xiaomi: MiMo-V2.5"
 field = "reasoning_content"
 
 [cost]
-input = 0.4
-output = 2
-cache_read = 0.08
+input = 0.112
+output = 0.224
+cache_read = 0.0024
 
 [[cost.tiers]]
 tier = { type = "context", size = 256_000 }

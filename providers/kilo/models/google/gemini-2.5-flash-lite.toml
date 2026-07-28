@@ -10,11 +10,11 @@ tool_call = true
 open_weights = false
 
 [cost]
-input = 0.1
-output = 0.4
-reasoning = 0.4
-cache_read = 0.01
-cache_write = 0.083333
+input = 0.049999999999999996
+output = 0.2
+reasoning = 0.2
+cache_read = 0.005
+cache_write = 0.041667
 
 [limit]
 context = 1048576

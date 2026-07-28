@@ -10,9 +10,9 @@ temperature = true
 open_weights = false
 
 [cost]
-input = 0.1612
-output = 0.96525
-cache_read = 0.1612
+input = 0.1000
+output = 1.00000
+cache_read = 0.0500
 
 [limit]
 context = 262144
