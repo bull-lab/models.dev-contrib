@@ -25,9 +25,9 @@ values = ["high", "max"]
 field = "reasoning_content"
 
 [cost]
-input = 1.320
-output = 3.9600000000000004
-cache_read = 0.044000
+input = 1.32
+output = 3.96
+cache_read = 0.044
 
 [limit]
 context = 1_000_000
