@@ -12,7 +12,7 @@ tool_call = true
 [cost]
 input = 0.1818
 output = 1.1364
-cache_read = 0.018
+cache_read = 0.0182
 
 [limit]
 context = 400_000

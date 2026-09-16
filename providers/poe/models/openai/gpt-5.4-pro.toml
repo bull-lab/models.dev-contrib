@@ -11,7 +11,7 @@ tool_call = true
 
 [cost]
 input = 27.2727
-output = 163.63640000000000
+output = 163.636400
 
 [limit]
 context = 1_050_000
