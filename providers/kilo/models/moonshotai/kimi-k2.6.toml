@@ -12,9 +12,9 @@ structured_output = true
 open_weights = true
 
 [cost]
-input = 0.75
-output = 3.50
-cache_read = 0.375
+input = 0.47
+output = 2.83
+cache_read = 0.086
 
 [limit]
 context = 262144
