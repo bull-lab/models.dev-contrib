@@ -12,9 +12,9 @@ values = ["low", "medium", "high"]
 field = "reasoning_content"
 
 [cost]
-input = 0.34
-output = 1.19
-cache_read = 0.04
+input = 0.27
+output = 0.95
+cache_read = 0.02999999
 
 [limit]
 context = 198_000
