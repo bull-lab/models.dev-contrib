@@ -13,8 +13,8 @@ knowledge = "2025-03-31"
 open_weights = true
 
 [cost]
-input = 0.21
-output = 0.79
+input = 0.25
+output = 0.95
 cache_read = 0.13
 
 [limit]

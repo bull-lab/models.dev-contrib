@@ -7,8 +7,8 @@ reasoning_options = []
 field = "reasoning_details"
 
 [cost]
-input = 0.375
-output = 2.025
+input = 0.450
+output = 2.250
 
 [limit]
 context = 256_000

@@ -6,7 +6,7 @@ values = ["low", "medium", "high"]
 
 [cost]
 input = 0.03
-output = 0.15
+output = 0.17
 
 [limit]
 output = 131_072
