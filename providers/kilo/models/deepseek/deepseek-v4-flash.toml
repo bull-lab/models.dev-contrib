@@ -10,13 +10,13 @@ temperature = true
 open_weights = false
 
 [cost]
-input = 0.14
-output = 0.28
-cache_read = 0.0028
+input = 0.00
+output = 1.60
+cache_read = 0.0001
 
 [limit]
 context = 1048576
-output = 384000
+output = 1.6
 
 [modalities]
 input = ["text"]

@@ -10,13 +10,13 @@ temperature = false
 open_weights = false
 
 [cost]
-input = 5.0
-output = 30.0
-cache_read = 0.5
+input = 2.5
+output = 15.0
+cache_read = 0.2
 
 [limit]
 context = 1050000
-output = 128000
+output = 15
 
 [modalities]
 input = ["text", "image", "pdf"]

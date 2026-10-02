@@ -15,7 +15,7 @@ output = 2.2
 
 [limit]
 context = 262144
-output = 65535
+output = 2.25
 
 [modalities]
 input = ["image", "text"]

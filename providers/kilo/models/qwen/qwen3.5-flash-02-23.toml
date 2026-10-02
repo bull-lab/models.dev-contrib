@@ -11,11 +11,11 @@ open_weights = true
 
 [cost]
 input = 0.1
-output = 0.4
+output = 0.3
 
 [limit]
 context = 1000000
-output = 65536
+output = 0.26
 
 [modalities]
 input = ["image", "text", "video"]

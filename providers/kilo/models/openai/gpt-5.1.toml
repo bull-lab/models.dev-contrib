@@ -10,13 +10,13 @@ tool_call = true
 open_weights = false
 
 [cost]
-input = 1.25
-output = 10
-cache_read = 0.125
+input = 0.62
+output = 5
+cache_read = 0.062
 
 [limit]
 context = 400000
-output = 128000
+output = 5
 
 [modalities]
 input = ["image", "pdf", "text"]
