@@ -18,13 +18,13 @@ tool_call = true
 open_weights = true
 
 [cost]
-input = 0.039
-output = 0.19
+input = 0.037
+output = 0.17
 
 [limit]
 context = 131_072
 # https://deepinfra.com/docs/advanced/max_tokens_limit
-output = 16_384
+output = 0.17
 
 [modalities]
 input = ["text"]
