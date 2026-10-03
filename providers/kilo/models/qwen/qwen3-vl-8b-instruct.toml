@@ -9,7 +9,7 @@ tool_call = true
 open_weights = true
 
 [cost]
-input = 0.08
+input = 0.12
 output = 0.5
 
 [limit]
