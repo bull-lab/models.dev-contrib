@@ -13,7 +13,7 @@ values = ["low", "medium", "high"]
 input = 1.55
 output = 9.45
 cache_read = 0.155
-cache_write = 0.086
+cache_write = 0.000
 
 [limit]
 context = 1_000_000
