@@ -9,8 +9,8 @@ structured_output = true
 reasoning_options = []
 
 [cost]
-input = 3
-output = 15
+input = 2.5
+output = 12.5
 cache_read = 0.3
 cache_write = 3.75
 
