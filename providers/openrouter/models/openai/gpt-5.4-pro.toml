@@ -8,6 +8,7 @@ values = ["medium", "high", "xhigh"]
 [cost]
 input = 30
 output = 180
+cache_read = 3
 
 [modalities]
 input = ["text", "image", "pdf"]

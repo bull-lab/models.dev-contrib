@@ -13,13 +13,14 @@ structured_output = true
 open_weights = false
 
 [cost]
-input = 15.00
-output = 90.00
+input = 30.00
+output = 180.00
+cache_read = 3.00
 
 [[cost.tiers]]
 tier = { size = 272_000 }
-input = 30.00
-output = 135.00
+input = 60.00
+output = 270.00
 
 [limit]
 context = 1_050_000
