@@ -6,8 +6,8 @@ name = "Xiaomi: MiMo V2.5 Pro"
 field = "reasoning_content"
 
 [cost]
-input = 1
-output = 3
+input = 0.3045
+output = 0.609
 cache_read = 0.2
 
 [[cost.tiers]]

@@ -12,9 +12,9 @@ open_weights = false
 reasoning_options = []
 
 [cost]
-input = 0.66
-output = 3.41
-cache_read = 0.14
+input = 0.18
+output = 9.34
+cache_read = 0.18
 
 [limit]
 context = 262_144

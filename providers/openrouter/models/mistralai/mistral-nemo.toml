@@ -2,7 +2,7 @@ base_model = "mistral/mistral-nemo"
 structured_output = true
 
 [cost]
-input = 0.02
+input = 0.03
 output = 0.03
 
 [limit]
