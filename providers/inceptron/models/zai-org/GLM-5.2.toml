@@ -7,8 +7,8 @@ field = "reasoning_content"
 
 [cost]
 input = 1.2
-output = 4.2
-cache_read = 0.26
+output = 4.4
+cache_read = 0.16
 cache_write = 0
 
 [modalities]
