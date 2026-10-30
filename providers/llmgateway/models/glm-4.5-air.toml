@@ -2,9 +2,9 @@ base_model = "zhipuai/glm-4.5-air"
 reasoning_options = []
 
 [cost]
-input = 0.13
-output = 0.85
-cache_read = 0.025
+input = 0.20
+output = 1.10
+cache_read = 0.030
 cache_write = 0
 
 [limit]
