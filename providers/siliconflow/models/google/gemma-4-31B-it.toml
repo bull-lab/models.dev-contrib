@@ -4,8 +4,8 @@ reasoning = false
 open_weights = false
 
 [cost]
-input = 0.13
-output = 0.40
+input = 0.75
+output = 1.00
 
 [limit]
 context = 262_144
