@@ -16,7 +16,7 @@ type = "toggle"
 
 [cost]
 input = 0.27
-output = 0.95
+output = 1.00
 cache_read = 0.13
 
 [limit]
