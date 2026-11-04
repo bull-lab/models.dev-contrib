@@ -4,7 +4,7 @@ reasoning = false
 open_weights = false
 
 [cost]
-input = 0.12
+input = 0.14
 output = 0.40
 
 [limit]
