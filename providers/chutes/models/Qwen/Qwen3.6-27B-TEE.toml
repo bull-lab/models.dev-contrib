@@ -3,9 +3,9 @@ name = "Qwen3.6 27B TEE"
 reasoning_options = []
 
 [cost]
-input = 0.3
+input = 0.25
 output = 2
-cache_read = 0.15
+cache_read = 0.025
 
 [modalities]
 input = ["text", "image"]
