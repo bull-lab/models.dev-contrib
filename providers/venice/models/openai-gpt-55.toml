@@ -8,9 +8,9 @@ type = "effort"
 values = ["none", "minimal", "low", "medium", "high"]
 
 [cost]
-input = 6.25
-output = 37.5
-cache_read = 0.625
+input = 5.00
+output = 30.0
+cache_read = 0.500
 
 [[cost.tiers]]
 tier = { type = "context", size = 272_000 }
