@@ -11,7 +11,7 @@ structured_output = true
 open_weights = true
 
 [cost]
-input = 0.574
+input = 0.570
 output = 2.294
 cache_read = 0.5
 
