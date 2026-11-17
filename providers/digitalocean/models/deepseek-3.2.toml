@@ -18,6 +18,8 @@ field = "reasoning_content"
 input = 0.50
 output = 1.60
 
+cache_read = 0.15
+
 [limit]
 context = 128_000
 output = 64_000
