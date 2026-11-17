@@ -4,8 +4,10 @@ reasoning = false
 open_weights = false
 
 [cost]
-input = 0.20
-output = 1.60
+input = 0.24
+output = 1.80
+
+cache_read = 0.15
 
 [limit]
 context = 262_144
