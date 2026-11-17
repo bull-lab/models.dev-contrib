@@ -13,6 +13,10 @@ open_weights = false
 input = 0.10
 output = 0.40
 
+cache_read = 0.01
+
+cache_write = 0.125
+
 [limit]
 context = 1_020_000
 output = 1_020_000
