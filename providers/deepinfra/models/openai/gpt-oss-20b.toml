@@ -21,6 +21,8 @@ open_weights = true
 input = 0.03
 output = 0.14
 
+cache_read = 0.015
+
 [limit]
 context = 131_072
 # https://deepinfra.com/docs/advanced/max_tokens_limit
