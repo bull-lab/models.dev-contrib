@@ -14,6 +14,8 @@ open_weights = true
 input = 0.30
 output = 0.90
 
+cache_read = 0.03
+
 [limit]
 context = 256_000
 output = 4_096
