@@ -8,9 +8,9 @@ reasoning_options = [{ type = "effort", values = ["low", "medium", "high"] }]
 field = "reasoning_content"
 
 [cost]
-input = 1.553
-output = 3.106
-cache_read = 0.003625
+input = 1.68
+output = 3.359
+cache_read = 0.148583
 
 [limit]
 context = 1_048_576

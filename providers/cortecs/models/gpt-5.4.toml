@@ -5,9 +5,9 @@ base_model_omit = ["limit.input"]
 reasoning_options = [{ type = "effort", values = ["low", "medium", "high"] }]
 
 [cost]
-input = 3
-output = 16.13
-cache_read = 0.25
+input = 2.80987
+output = 16.85
+cache_read = 0.29
 
 [limit]
 context = 1_050_000

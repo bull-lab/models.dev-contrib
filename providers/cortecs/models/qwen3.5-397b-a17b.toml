@@ -8,8 +8,8 @@ attachment = false
 knowledge = "2026-01"
 
 [cost]
-input = 0.6
-output = 3.6
+input = 0.660368
+output = 3.96221
 
 [limit]
 context = 250_000
