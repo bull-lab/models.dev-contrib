@@ -11,8 +11,8 @@ temperature = true
 open_weights = true
 
 [cost]
-input = 0.438
-output = 0.68
+input = 0.482
+output = 0.75
 
 [limit]
 context = 32_000

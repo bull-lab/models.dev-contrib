@@ -5,7 +5,7 @@ base_model = "anthropic/claude-opus-4-8"
 reasoning_options = [{ type = "effort", values = ["low", "medium", "high"] }]
 
 [cost]
-input = 5.64
-output = 28.198
-cache_read = 0.563
+input = 5.62
+output = 28.094
+cache_read = 0.562
 cache_write = 7.049
