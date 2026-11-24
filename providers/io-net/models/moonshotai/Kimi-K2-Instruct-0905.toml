@@ -11,10 +11,10 @@ knowledge = "2024-08"
 open_weights = false
 
 [cost]
-input = 0.39
-output = 1.9
-cache_read = 0.195
-cache_write = 0.78
+input = 0.57
+output = 2.3
+cache_read = 0.285
+cache_write = 0.00
 
 [limit]
 context = 32768
