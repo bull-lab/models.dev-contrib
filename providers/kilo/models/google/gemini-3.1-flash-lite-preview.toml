@@ -10,8 +10,8 @@ tool_call = true
 open_weights = false
 
 [cost]
-input = 0.25
-output = 1.5
+input = 0.13
+output = 0.8
 reasoning = 1.5
 
 [limit]
