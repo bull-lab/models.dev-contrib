@@ -16,7 +16,7 @@ open_weights = false
 [cost]
 input = 1.25
 output = 10
-cache_read = 0.125
+cache_read = 0.000
 
 [[cost.tiers]]
 tier = { size = 200_000 }
