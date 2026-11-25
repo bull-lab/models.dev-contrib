@@ -15,8 +15,8 @@ open_weights = false
 field = "reasoning_content"
 
 [cost]
-input = 0.48
-output = 2.41
+input = 0.50
+output = 2.48
 cache_read = 0.09644
 
 [[cost.tiers]]
