@@ -16,7 +16,7 @@ field = "reasoning_content"
 
 [cost]
 input = 0.08
-output = 0.51
+output = 0.54
 cache_read = 0.01692
 input_audio = 1.269
 
