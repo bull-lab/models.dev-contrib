@@ -11,8 +11,8 @@ knowledge = "2025-08-31"
 open_weights = false
 
 [cost]
-input = 3.00
-output = 9.00
+input = 1.25
+output = 2.50
 
 [limit]
 context = 2_000_000
