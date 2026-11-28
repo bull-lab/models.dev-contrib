@@ -6,8 +6,8 @@ reasoning = true
 reasoning_options = []
 
 [cost]
-input = 0.053
-output = 0.222
+input = 0.177
+output = 0.689
 
 [limit]
 context = 262_000
